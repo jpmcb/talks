@@ -2,4 +2,14 @@
 
 ---
 
+### John McBride / Talks
+
 Inquires: talks@johncodes.com
+
+---
+
+Inspired by
+_[bdougie/talks](https://github.com/bdougie/talks)_,
+_[Justin Garrison CFPs](https://justingarrison.com/cfp/)_,
+_[Julia Evans Talks](https://jvns.ca/talks/)_,
+and _[Will Larson](https://lethain.com/about/)_.
