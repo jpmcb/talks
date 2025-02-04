@@ -17,7 +17,7 @@ Inquires: talks@johncodes.com / https://johncodes.com/talks
 ---
 
 Inspired by
-_[Brian Douglas's `bdougie/talks`](https://github.com/bdougie/talks)_,
+_[`bdougie/talks`](https://github.com/bdougie/talks)_,
 _[Justin Garrison's `/cfp`](https://justingarrison.com/cfp/)_,
 _[Julia Evan's `/talks`](https://jvns.ca/talks/)_,
 and _[Will Larson's `/about`](https://lethain.com/about/)_.
