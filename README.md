@@ -9,6 +9,14 @@ Inquires on speaking engagements: talks@johncodes.com
 
 ---
 
+### Assets
+
+* Personal bio: [`/personal-bio.md`](./personal-bio.md)
+* High quality headshots: [`/headshots/`](./headshots/)
+* Speaking & conference action shots: [`/action-shots/`](./action-shots/)
+
+---
+
 Inspired by
 _[Brian Douglas's `bdougie/talks`](https://github.com/bdougie/talks)_,
 _[Justin Garrison's `/cfp`](https://justingarrison.com/cfp/)_,
