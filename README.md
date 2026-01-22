@@ -2,9 +2,11 @@
 
 ---
 
-### John McBride / Talks
+### John McBride | https://johncodes.com/talks
 
-Inquires: talks@johncodes.com / https://johncodes.com/talks
+Speaking inquires: john@papercompute.com
+
+Talk abstracts can be find in [`/abstracts`](./abstracts)
 
 ---
 
